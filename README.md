@@ -8,9 +8,9 @@ Joowon Kim (jwkim@incorl.hanyang.ac.kr)
 - [Description](#description)
 - [Dependencies](#dependencies)
 
-## Description
+## Description.
 
-The purpose of this package(for Ros) is to detect obstacles using the stereo camera
+The purpose of this packages(for Ros) is to detect obstacles using the stereo camera
 ([ZED Stereo camera](https://www.stereolabs.com/)).
 
 ## Dependencies

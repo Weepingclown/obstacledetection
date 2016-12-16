@@ -67,7 +67,7 @@ roscore
 # open the new terminal using ctrl+shit tab
 rosrun obstacledetection obstacledetection
 ```
-However,"Segmentation fault(core dumped)" is displayed and not working
+However,"Segmentation fault(core dumped)" is displayed and not working.
 
 Plan to add more work...
 
@@ -86,3 +86,4 @@ Plan to add more work...
 ***
 ## Video
 [![Demo CountPages alpha](http://dl.dropbox.com/s/qq3xlhrwfexeee4/obstacle.gif)](https://www.youtube.com/embed/Q4toI3cEoTk)
+click ! If you want to see the video

@@ -85,5 +85,5 @@ Plan to add more work...
 ![color image](http://dl.dropbox.com/s/0cb0qv3cjh1gscn/process6.png)
 ***
 ## Video
-[![Demo CountPages alpha](http://dl.dropbox.com/s/qq3xlhrwfexeee4/obstacle.gif)](https://www.youtube.com/embed/Q4toI3cEoTk)
+[![Demo CountPages alpha](http://dl.dropbox.com/s/qq3xlhrwfexeee4/obstacle.gif)](https://www.youtube.com/embed/Q4toI3cEoTk)   
 click ! If you want to see the video

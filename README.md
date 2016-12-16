@@ -24,6 +24,7 @@ The purpose of this packages(for Ros) is to detect obstacles using the stereo ca
 
 - [ROS Indigo](http://wiki.ros.org/indigo)
 - [OpenCV 3.1 ](http://wiki.ros.org/vision_opencv)
+- [Zed Stereo camera](https://www.stereolabs.com/)
 
 ## Installation
 Install Ros-Indigo
